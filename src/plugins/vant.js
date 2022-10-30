@@ -1,0 +1,21 @@
+import Vue from 'vue'
+import { Tabbar, TabbarItem, Search, Card, PullRefresh, Button, List, NavBar, Image, ActionSheet, Cell, CellGroup, Field, Empty, Tab, Tabs, Form, Uploader } from 'vant'
+
+Vue.use(Tabbar)
+Vue.use(TabbarItem)
+Vue.use(Search)
+Vue.use(Card)
+Vue.use(PullRefresh)
+Vue.use(Button)
+Vue.use(List)
+Vue.use(NavBar)
+Vue.use(Image)
+Vue.use(ActionSheet)
+Vue.use(Cell)
+Vue.use(CellGroup)
+Vue.use(Field)
+Vue.use(Empty)
+Vue.use(Tab)
+Vue.use(Tabs)
+Vue.use(Form)
+Vue.use(Uploader)
